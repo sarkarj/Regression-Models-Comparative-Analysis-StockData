@@ -111,6 +111,7 @@ Understanding Machine Learning Regression Models - This sample python code predi
 | Mean Absolute Error (MAE)| Measures average absolute difference between predictions and actual values. Provides straightforward error interpretation. Less sensitive to extreme outliers |
 | Custom Accuracy Percentage | Normalizes error against data scale. Provides intuitive performance understanding. Enables cross-model comparability Evaluates|
 
+<img src="./Model.png">
 
 ## How It Works
 * Input Stock Ticker: Run the [stock.py](./stock.py) with a stock ticker, e.g., 
