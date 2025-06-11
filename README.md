@@ -150,3 +150,7 @@ Understanding Machine Learning Regression Models - This sample python code predi
 
 
 ⚠️ Methodology Disclaimer: Focused on model comparison, not definitive predictions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)]() [![Email](https://img.shields.io/badge/Email-Contact-red.svg)]()
+
+
