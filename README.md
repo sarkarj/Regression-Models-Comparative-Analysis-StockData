@@ -1,9 +1,12 @@
 # Regression Models Comparative Analysis
+
 [![AI](https://img.shields.io/badge/AI-Regression%20Models-green.svg)](https://en.wikipedia.org/wiki/Regression_analysis)
 [![Data](https://img.shields.io/badge/Data-yfinance-blue.svg)](https://pypi.org/project/yfinance/)
 [![Language](https://img.shields.io/badge/Language-Python-informational.svg)](https://www.python.org/)
 [![Library](https://img.shields.io/badge/Library-NumPy-blueviolet.svg)](https://numpy.org/)
 [![Library](https://img.shields.io/badge/Library-scikit--learn-orange.svg)](https://scikit-learn.org/stable/)
+[![Analysis](https://img.shields.io/badge/Analysis-Model%20Comparison-purple.svg)](https://en.wikipedia.org/wiki/Model_selection)
+
 
 Understanding Machine Learning Regression Models - This sample python code predicts stock prices for the next five days using historical data through various regression models.
 
